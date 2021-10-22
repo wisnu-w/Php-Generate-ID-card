@@ -1,2 +1,4 @@
-# Php-Generate-ID-card
-This Script For Generrate ID Card With PHP
+# IdCard-Generator
+
+Demo Link : http://idcardgenerator.epizy.com <br>
+Demo Video : https://www.youtube.com/watch?v=WE4fH2Ce4rY
